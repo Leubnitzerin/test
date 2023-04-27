@@ -16,5 +16,5 @@ apple = web.DataReader("BNTX", "yahoo",end)
 print(apple)
 apple = web.DataReader("5CV.DE", "yahoo",end)
 print(apple)
-
-
+apple = web.DataReader("5CV.DE", "yahoo",end)
+print(apple)
